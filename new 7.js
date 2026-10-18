@@ -40,4 +40,4 @@ function handleVolumeUp() {
 
     music.volume = volumeRange.value / 100
 
-}	
+}
