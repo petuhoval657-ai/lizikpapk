@@ -70,4 +70,3 @@ music.addEventListener('timeupdate', function () {
 
 
 }, false)
-
