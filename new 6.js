@@ -1,4 +1,4 @@
-var repIcon = document.querySelector('.repeat')
+var replcon = document.querySelector('.repeat')
 
 function handleRepeat() {
 
@@ -6,7 +6,7 @@ function handleRepeat() {
 
         music.loop = false
 
-        repIcon.classList.toggle('active')
+        replcon.classList.toggle('active')
 
     }
 
@@ -14,7 +14,7 @@ function handleRepeat() {
 
         music.loop = true
 
-        repIcon.classList.toggle('active')
+        replcon.classList.toggle('active')
 
     }
 
