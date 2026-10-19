@@ -1,4 +1,4 @@
-var volIcon = document.querySelector('.volume')
+var vollcon = document.querySelector('.volume')
 
 var volBox = document.querySelector('.volume-box')
 
@@ -12,7 +12,7 @@ var volumeUp = document.querySelector('.volume-up')
 
 function handleVolume() {
 
-    volIcon.classList.toggle('active')
+    vollcon.classList.toggle('active')
 
     volBox.classList.toggle('active')
 
